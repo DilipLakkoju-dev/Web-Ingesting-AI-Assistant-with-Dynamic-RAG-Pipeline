@@ -16,6 +16,6 @@ langserve
 uvicorn
 sse_starlette
 pydantic==1.10.17
-pydantic-settings==0.2.5
 qdrant-client>=1.7.0
+
 
